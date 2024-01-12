@@ -1,0 +1,8 @@
+package accessmodifier.constructor.pack2;
+
+public class C {
+	
+	// 여러분들이 직접 A a1, a2, a3를 선언하고 각각 호출을 다른 생성자로 해서
+	// 접근 제한자별 차이를 생각해보세요.
+
+}

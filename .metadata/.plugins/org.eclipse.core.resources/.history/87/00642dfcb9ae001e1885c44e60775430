@@ -1,0 +1,16 @@
+package noinheri;
+
+public class MainClass2 {
+	public static void main(String[] args) {
+		// 전사 생성
+		
+		// 상태 조회
+		
+		// 쥐 생성
+		
+		// 쥐와 교전(3번)
+		
+		// 상태조회
+		
+	}
+}
